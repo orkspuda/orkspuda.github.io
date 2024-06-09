@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orkspuda.github.io/sitemap.html
+Sitemap: https://orkspuda.github.io/app/sitemap.html
+Sitemap: https://orkspuda.github.io/assets/sitemap.html
+Sitemap: https://orkspuda.github.io/includes/sitemap.html
+Sitemap: https://orkspuda.github.io/src/sitemap.html
